@@ -9,10 +9,10 @@
 ### - Zoom Effect Button: A minimal button with a zoom-in animation on click or focus, enhancing the visual feedback in a clean and modern way.
 
 ## While these buttons are not functional, they serve as excellent examples of visual prototyping, CSS animations, and creative UI experimentation.
-
+<br>
 <p align="center">
-  <img src="varify.png" width="auto"><br>
-  <img src="glitch.png" width="auto"><br>
-  <img src="send.png" width="auto"><br>
+  <img src="varify.png" width="auto"><br><br>
+  <img src="glitch.png" width="auto"><br><br>
+  <img src="send.png" width="auto"><br><br>
   <img src="save.png" width="auto">
 </p>
